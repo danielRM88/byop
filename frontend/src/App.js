@@ -45,7 +45,7 @@ function App() {
               pubDate={feed.published_date}
               generator={feed.generator}
               imageUrl={feed.image_url}
-              items={[]}
+              items={feed.items}
             />
           </div>
         </div>
