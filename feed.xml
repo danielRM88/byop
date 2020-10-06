@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+  <channel>
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    <atom:link href="https://feed-dive.podigee.io/feed/mp3" rel="self" />
+    <atom:link href="https://feed-dive.podigee.io/feed/mp3" rel="first" />
+    <atom:link href="https://feed-dive.podigee.io/feed/mp3?page=1" rel="last" />
+    <title>FEED DIVE – der Podcast-Podcast mit Tiefgang</title>
+    <language>de</language>
+    <pubDate>Mon, 15 Jun 2020 10:15:56 +0000</pubDate>
+    <lastBuildDate>Mon, 05 Oct 2020 04:00:01 +0000</lastBuildDate>
+    <description>An der Seite unserer Podigee-Expertinnen und -Experten lässt dich FEED DIVE tief abtauchen in die Welt von Podcasting und Audio: Von Tipps bis Gossip, von Audio-Produktion bis Content-Marketing und von Feed-Tags bis MP3-Kodierung gehen wir den Themen ausführlich auf den Grund, damit du in Sachen Podcasting alle Klippen erfolgreich umschiffst. Seicht gibt's woanders – wir wagen einen waschechten Deep Dive einmal quer durch die internationale Podcast-Szene. Klarmachen zum FEED DIVE!</description>
+    <link>https://podigee.de</link>
+    <generator>Podigee (https://podigee.com)</generator>
+    <itunes:type>episodic</itunes:type>
+    <copyright>Podigee 2020</copyright>
+    <image>
+      <url>https://images.podigee.com/0x,sg8AvxU45SiF1LJf4FRzd_PV9V3ft7N5nN9cbBkyB1g8=/https://cdn.podigee.com/uploads/u15477/278ff5ed-0892-4ca1-a654-0358451bcf23.jpg</url>
+      <title>FEED DIVE – der Podcast-Podcast mit Tiefgang</title>
+      <link>https://podigee.de</link>
+    </image>
+    <itunes:image href="https://images.podigee.com/0x,sg8AvxU45SiF1LJf4FRzd_PV9V3ft7N5nN9cbBkyB1g8=/https://cdn.podigee.com/uploads/u15477/278ff5ed-0892-4ca1-a654-0358451bcf23.jpg" />
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author>Podigee</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>Podcast,Hosting,Analytics,Experten,Blick hinter die Kulissen,Marketing,Software-as-a-Service</itunes:keywords>
+    <itunes:category text="Technology" />
+    <itunes:category text="Education">
+      <itunes:category text="How To" />
+    </itunes:category>
+    <itunes:category text="News">
+      <itunes:category text="Tech News" />
+    </itunes:category>
+    <itunes:summary>An der Seite unserer Podigee-Expertinnen und -Experten lässt dich FEED DIVE tief abtauchen in die Welt von Podcasting und Audio: Von Tipps bis Gossip, von Audio-Produktion bis Content-Marketing und von Feed-Tags bis MP3-Kodierung gehen wir den Themen ausführlich auf den Grund, damit du in Sachen Podcasting alle Klippen erfolgreich umschiffst. Seicht gibt's woanders – wir wagen einen waschechten Deep Dive einmal quer durch die internationale Podcast-Szene. Klarmachen zum FEED DIVE!</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Podigee</itunes:name>
+      <itunes:email>podigee-podcast@podigee.com</itunes:email>
+    </itunes:owner>
+    <item>
+      <title>Podcast-Finanzierung durch die Community – wie genau funktioniert Steady?</title>
+      <itunes:title>Podcast-Finanzierung durch die Community – wie genau funktioniert Steady?</itunes:title>
+      <description>Gabriel erklärt Jürgen im Gespräch, wie Steady funktioniert, wo der Unterschied zwischen Mitgliedern und Abonnenten liegt – und warum man für Monetarisierung nur 1.000 echte Fans braucht.</description>
+      <pubDate>Mon, 05 Oct 2020 04:00:00 +0000</pubDate>
+      <link>https://feed-dive.podigee.io/9-podcast-finanzierung-durch-die-community-wie-genau-funktioniert-steady</link>
+      <guid isPermaLink="false">33ba96909d353b784864ca9717adf6a9</guid>
+      <content:encoded>
+        <![CDATA[Auf Deck im Interview: Gabriel Yoran, Co-Gründer von Steady
+<p>Eines der Dauerbrenner-Themen rund ums Podcasting: Monetarisierung. Mit Steady-Co-Gründer Gabriel Yoran hat Jürgen sich einen echten Experten rund um Crowdfunding und Community-Finanzierung auf die FEED-DIVE-Kommandobrücke geholt. Gemeinsam klären sie, warum die mitgliederfinanzierte Medienproduktion unbedingt Hilfe einer Steuerfachkraft benötigt, weshalb Steady eigentlich Steady heißt und wie viele Hörende es am Ende des Tages braucht, um ein Podcast-Projekt durchzufinanzieren. Viel Spaß!</p><p>**Links zum Thema: **</p><ul><li><a href="https://go.steadyhq.com/de/">Steady-Homepage</a></li><li><a href="https://go.steadyhq.com/de/membership-crashkurs/">Membership-Crashkurs</a></li><li><a href="https://kk.org/thetechnium/1000-true-fans/">1000 True Fans (Kevon Kelly</a></li><li><a href="https://krautreporter.de/zusammenhang/428-schleichwege-zur-klassik">Schleichwege zur Klassik</a></li><li>Podigee-Hilfe: <a href="https://hilfe.podigee.com/article/422-steady-zugang-und-verbindung-erstellen">So verknüpfst du dein Steady-Konto</a></li><li>Steady-Hilfe: <a href="https://get.steadyhq.help/hc/de/articles/360011972478-Podigee-x-Steady-So-ver%C3%B6ffentlichst-du-exklusive-Episoden-f%C3%BCr-Mitglieder">So veröffentlichst du exklusive Episoden für deine Mitglieder</a></li></ul><p><strong>PODCASTS IN SICHT! Das läuft in unseren Podcatchern:</strong></p><ul><li><a href="https://fyyd.de/episode/5472037">WRINT 1135: Klassische Musik</a></li><li><a href="https://kanackischewelle.podigee.io/">Kanackische Welle</a></li><li><a href="https://www.nytimes.com/2020/10/01/podcasts/the-daily/voting-by-mail-election.html">The Daily</a></li><li><a href="https://fyyd.de/podcast/moechtegern-rockstars/0">Möchtegern-Rockstars</a></li></ul><p><strong>Klarmachen zum Entern!</strong></p><p><a href="https://feed-dive.podigee.io"><img src="https://images.podigee.com/1920x,sg8AvxU45SiF1LJf4FRzd_PV9V3ft7N5nN9cbBkyB1g8=/https://cdn.podigee.com/uploads/u15477/278ff5ed-0892-4ca1-a654-0358451bcf23.jpg" alt="Podigee Feed Dive" title="FEED DIVE-Logo" /></a></p><p><strong>Links zum Podcast:</strong></p><ul><li>Feed: <a href="https://feed-dive.podigee.io/feed/mp3">https://feed-dive.podigee.io/feed/mp3</a></li><li>Blog und Kommentare: <a href="https://feed-dive.podigee.io">https://feed-dive.podigee.io</a></li><li>Homepage: <a href="https://podigee.de?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive">https://podigee.de</a></li></ul><p><a href="https://podigee.de?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive"><img src="https://www.podigee.com/images/podigee-logo-text-horizontal.png" alt="podigee-logo" title="Podigee Logo" /></a></p><p>Du brauchst Starthilfe für deinen eigenen Podcast? Dann schau mal auf unserer <a href="https://www.podigee.com/de/den-ersten-podcast-erstellen-tipps-f%C3%BCr-anf%C3%A4nger-und-fortgeschrittene?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive">Themenseite "Podcaststart" vorbei</a>!</p>]]>
+      </content:encoded>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Auf Deck im Interview: Gabriel Yoran, Co-Gründer von Steady</itunes:subtitle>
+      <itunes:summary>Gabriel erklärt Jürgen im Gespräch, wie Steady funktioniert, wo der Unterschied zwischen Mitgliedern und Abonnenten liegt – und warum man für Monetarisierung nur 1.000 echte Fans braucht.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Podcasts,Podigee,Monetarisierung,Steady,Mitgliedermodell,Abomodell,Communityfinanzierung,Crowdfunding</itunes:keywords>
+      <itunes:author>Podigee</itunes:author>
+      <enclosure url="https://cdn.podigee.com/media/podcast_26278_feed_dive_der_pdcst_pdcst_mit_tiefgang_episode_293673_pdcst_finanzierung_durch_die_community_wie_genau_funktioniert_steady.mp3?v=1601624559&amp;source=feed" type="audio/mpeg" length="60087641" />
+      <itunes:duration>4251</itunes:duration>
+    </item>
+    <item>
+      <title>Podcast-Verzeichnisse von Apple bis Spotify</title>
+      <itunes:title>Podcast-Verzeichnisse von Apple bis Spotify</itunes:title>
+      <description>In dieser Episode befragt Jürgen Podigee-CEO Mati zu seinen Gedanken, vor allem aber zu Chancen und Gefahren für unser geliebtes Podcast-Ökosystem.</description>
+      <pubDate>Mon, 21 Sep 2020 08:00:00 +0000</pubDate>
+      <link>https://feed-dive.podigee.io/8-podcast-verzeichnisse-von-apple-bis-spotify</link>
+      <guid isPermaLink="false">3f21c77cfdd5d6b7a762c6f72ded811a</guid>
+      <content:encoded>
+        <![CDATA[Ist das Podcast-Ökosystem in Gefahr? Was könnte im Worst Case passieren?
+<p>Podcasting ist vollständig dezentralisiert, frei, transparent, offen und unkontrollierbar durch einzelne Entitäten, solange das Ökosystem der Podcast-Player und -Dienste so vielfältig bleibt, dass keine einzelne Anwendung die Macht hat, willkürliche Bedingungen vorzugeben. Zuerst sprechen wir über die Grundlagen, wie "Was bedeutet offenes Ökosystem?" und "Was sind die Nachteile eines solchen Systems"?</p><p>Aber das Hauptthema ist: Podcast-Verzeichnisse: Welche gibt es, warum brauchen wir sie und wie funktionieren sie? Welche davon sind in Deutschland relevant?</p><p>Passend dazu ein Artikel auf Substack: </p><ul><li><a href="https://divinations.substack.com/p/the-open-podcast-ecosystem-is-dying">The open Podcast Ecosystem is Dying – here’s how to save it</a></li></ul><p>Unser Appell: <strong>Seid transparent, offen und tolerant (auch gegenüber neuen Geschäftsmodellen) – das Podcast-Ökosystem ist dadurch nicht in Gefahr!</strong></p><p><strong>PODCASTS IN SICHT! Das läuft in unseren Podcatchern:</strong></p><ul><li><a href="https://digitec.podigee.io">FAZ Digitec</a></li><li><a href="https://digitalkompakt.podigee.io/">Digital Kompakt | Business & Digitalisierung von Startup bis Corporate</a></li><li><a href="https://kanackischewelle.podigee.io">Kanackische Welle</a></li><li><a href="https://slate.com/podcasts/thrilling-tales-of-modern-capitalism">Thrilling Tales of Modern Capitalism with Seth Stevens</a></li></ul><p><strong>Klarmachen zum Entern!</strong></p><p><a href="https://feed-dive.podigee.io"><img src="https://images.podigee.com/1920x,sg8AvxU45SiF1LJf4FRzd_PV9V3ft7N5nN9cbBkyB1g8=/https://cdn.podigee.com/uploads/u15477/278ff5ed-0892-4ca1-a654-0358451bcf23.jpg" alt="Podigee Feed Dive" title="FEED DIVE-Logo" /></a></p><p><strong>Links zum Podcast:</strong></p><ul><li>Feed: <a href="https://feed-dive.podigee.io/feed/mp3">https://feed-dive.podigee.io/feed/mp3</a></li><li>Blog und Kommentare: <a href="https://feed-dive.podigee.io">https://feed-dive.podigee.io</a></li><li>Homepage: <a href="https://podigee.de?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive">https://podigee.de</a></li></ul><p><a href="https://podigee.de?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive"><img src="https://www.podigee.com/images/podigee-logo-text-horizontal.png" alt="podigee-logo" title="Podigee Logo" /></a></p><p>Du brauchst Starthilfe für deinen eigenen Podcast? Dann schau mal auf unserer <a href="https://www.podigee.com/de/den-ersten-podcast-erstellen-tipps-f%C3%BCr-anf%C3%A4nger-und-fortgeschrittene?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive">Themenseite "Podcaststart" vorbei</a>!</p>]]>
+      </content:encoded>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Ist das Podcast-Ökosystem in Gefahr? Was könnte im Worst Case passieren?</itunes:subtitle>
+      <itunes:summary>In dieser Episode befragt Jürgen Podigee-CEO Mati zu seinen Gedanken, vor allem aber zu Chancen und Gefahren für unser geliebtes Podcast-Ökosystem.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Podcasts,Podigee,Verzeichnisse,Monetarisierung,Ökosystem</itunes:keywords>
+      <itunes:author>Podigee</itunes:author>
+      <enclosure url="https://cdn.podigee.com/media/podcast_26278_feed_dive_der_pdcst_pdcst_mit_tiefgang_episode_284959_pdcst_verzeichnisse_von_apple_bis_spotify.mp3?v=1600427232&amp;source=feed" type="audio/mpeg" length="75519332" />
+      <itunes:duration>5353</itunes:duration>
+    </item>
+    <item>
+      <title>Begriffe, die alle Podcastenden kennen sollten – einfach und charmant erklärt</title>
+      <itunes:title>Begriffe, die alle Podcastenden kennen sollten – einfach und charmant erklärt</itunes:title>
+      <description>Wenn wir über Podcasting sprechen, fallen meiste ziemlich viele Fachbegriffe – in dieser Folge treten wir einen Schritt zurück und erklären das "Fachchinesisch".</description>
+      <pubDate>Mon, 07 Sep 2020 13:28:11 +0000</pubDate>
+      <link>https://feed-dive.podigee.io/7-begriffe-die-alle-podcastenden-kennen-sollten-einfach-und-charmant-erklart</link>
+      <guid isPermaLink="false">807ce555fcf35f58728c73cab771878d</guid>
+      <content:encoded>
+        <![CDATA[Von A wie Auphonic bis Z wie Zuhörende
+<p>Urlaubsvertretung Marcel lädt sich Podigee-CTO Ben in den Podcast ein und fragt die wichtigsten Begriffe rund ums Podcasting ab: Was sind Shownotes? Worauf beziehen sich die Zahlen in den Analytics? Was ist ein Audiogramm? Vor allem Podcasting-Einsteiger können hier eine Menge lernen. Viel Spaß!</p><p><strong>PODCASTS IN SICHT! Das läuft in unseren Podcatchern:</strong></p><ul><li><a href="https://alleineistschwer.podigee.io/">Alleine ist schwer</a></li><li><a href="https://www.tagesschau.de/multimedia/podcasts/mal-angenommen-101.html">Mal angenommen</a></li></ul><p><strong>Klarmachen zum Entern!</strong></p><p><a href="https://feed-dive.podigee.io"><img src="https://images.podigee.com/1920x,sg8AvxU45SiF1LJf4FRzd_PV9V3ft7N5nN9cbBkyB1g8=/https://cdn.podigee.com/uploads/u15477/278ff5ed-0892-4ca1-a654-0358451bcf23.jpg" alt="Podigee Feed Dive" title="FEED DIVE-Logo" /></a></p><p><strong>Links zum Podcast:</strong></p><ul><li>Feed: <a href="https://feed-dive.podigee.io/feed/mp3">https://feed-dive.podigee.io/feed/mp3</a></li><li>Blog und Kommentare: <a href="https://feed-dive.podigee.io">https://feed-dive.podigee.io</a></li><li>Homepage: <a href="https://podigee.de?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive">https://podigee.de</a></li></ul><p><a href="https://podigee.de?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive"><img src="https://www.podigee.com/images/podigee-logo-text-horizontal.png" alt="podigee-logo" title="Podigee Logo" /></a></p>]]>
+      </content:encoded>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Von A wie Auphonic bis Z wie Zuhörende</itunes:subtitle>
+      <itunes:summary>Wenn wir über Podcasting sprechen, fallen meiste ziemlich viele Fachbegriffe – in dieser Folge treten wir einen Schritt zurück und erklären das "Fachchinesisch".</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Podcasts,Podigee,Grundlagen,Einsteiger,Begriffe,ABC</itunes:keywords>
+      <itunes:author>Podigee</itunes:author>
+      <enclosure url="https://cdn.podigee.com/media/podcast_26278_feed_dive_der_pdcst_pdcst_mit_tiefgang_episode_279482_begriffe_die_alle_pdcstenden_kennen_sollten_einfach_und_charmant_erklart.mp3?v=1599485067&amp;source=feed" type="audio/mpeg" length="82393707" />
+      <itunes:duration>5844</itunes:duration>
+    </item>
+    <item>
+      <title>Wie komme ich zu meinem ersten Podcast?</title>
+      <itunes:title>Wie komme ich zu meinem ersten Podcast?</itunes:title>
+      <description>Premiere! Jürgen wechselt die Seiten und lässt sich in dieser Episode von Entwickler Marcel zum Thema Podcast-Start ausfragen. Was muss ich bedenken? Wo fange ich an? Brauche ich ein Konzept? Wie geht Podcast-Marketing?</description>
+      <pubDate>Mon, 24 Aug 2020 03:45:00 +0000</pubDate>
+      <link>https://feed-dive.podigee.io/6-wie-komme-ich-zu-meinem-ersten-podcasts</link>
+      <guid isPermaLink="false">00b566309034cfc008f767d0a157d5c7</guid>
+      <content:encoded>
+        <![CDATA[Von Konzept über souveräne Aufnahmen bis hin zu Podcast-Marketing
+<p>Marcel ist Entwickler bei Podigee und hat keinen eigenen Podcast – das mag sich nach dieser Episode ändern, denn in FEED DIVE #6 hat er die Gelegenheit, den erfahrenen Podcaster Jürgen einmal so richtig auszuquetschen: Wie gehe ich ein Podcast-Konzept an? Wie lang sollten meine Episoden sein? Wie vermarkte ich Audio in sozialen Netzwerken? Marcel hat viele Fragen und von Jürgen holt er sich die dazu passenden Antworten! </p><p><strong>Links zur Episode:</strong></p><ul><li><a href="https://www.gaborsteingart.com/der-podcast/#podcast-content">Das Morning Briefing von Gabor Steingart</a></li><li><a href="https://www.podigee.com/de/blog/serie-podcasteinstieg-teil-1-was-ist-ein-podcast/">Blog-Reihe "Podcaststart"</a></li></ul><p><strong>PODCASTS IN SICHT! Das läuft in unseren Podcatchern:</strong></p><ul><li><a href="https://hoerer.podigee.io/">Audio:viel – der Hörer:innen-Podcast</a></li><li><a href="https://binwegbouldern.de/alex-megos-ueber-klettern-bei-olympia/">Bin weg bouldern mit Alexander Megos</a></li><li><a href="https://das-a.ch">Ach? Triumvirat für historisch inspirierte Humorvermittlung</a></li><li><a href="https://feed-dive.podigee.io/3-so-fuhrst-du-spannende-podcastgesprache">FEED DIVE – Episode 3: "Interviews"</a></li></ul><p><strong>Klarmachen zum Entern!</strong></p><p><a href="https://feed-dive.podigee.io"><img src="https://images.podigee.com/1920x,sg8AvxU45SiF1LJf4FRzd_PV9V3ft7N5nN9cbBkyB1g8=/https://cdn.podigee.com/uploads/u15477/278ff5ed-0892-4ca1-a654-0358451bcf23.jpg" alt="Podigee Feed Dive" title="FEED DIVE-Logo" /></a></p><p><strong>Links zum Podcast:</strong></p><ul><li>Feed: <a href="https://feed-dive.podigee.io/feed/mp3">https://feed-dive.podigee.io/feed/mp3</a></li><li>Blog und Kommentare: <a href="https://feed-dive.podigee.io">https://feed-dive.podigee.io</a></li><li>Homepage: <a href="https://podigee.de?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive">https://podigee.de</a></li></ul><p><a href="https://podigee.de?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive"><img src="https://www.podigee.com/images/podigee-logo-text-horizontal.png" alt="podigee-logo" title="Podigee Logo" /></a></p>]]>
+      </content:encoded>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Von Konzept über souveräne Aufnahmen bis hin zu Podcast-Marketing</itunes:subtitle>
+      <itunes:summary>Premiere! Jürgen wechselt die Seiten und lässt sich in dieser Episode von Entwickler Marcel zum Thema Podcast-Start ausfragen. Was muss ich bedenken? Wo fange ich an? Brauche ich ein Konzept? Wie geht Podcast-Marketing?</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Podcasts,Podigee,Starten,Anfang,Konzept,Grundlagen,Einsteiger</itunes:keywords>
+      <itunes:author>Podigee</itunes:author>
+      <enclosure url="https://cdn.podigee.com/media/podcast_26278_feed_dive_der_pdcst_pdcst_mit_tiefgang_episode_268504_wie_komme_ich_zu_meinem_ersten_pdcsts.mp3?v=1597753281&amp;source=feed" type="audio/mpeg" length="80951879" />
+      <itunes:duration>5741</itunes:duration>
+    </item>
+    <item>
+      <title>Was macht ein Podcast-Hoster eigentlich?</title>
+      <itunes:title>Was macht ein Podcast-Hoster eigentlich?</itunes:title>
+      <description>Jürgen hat sich Entwickler Marcel und Customer-Support-Agent Ingrid auf die FEED-DIVE-Kommandobrücke geholt – und lädt dich ein, gemeinsam mit uns einen Blick hinter die Podigee-Kulissen zu werfen!</description>
+      <pubDate>Mon, 10 Aug 2020 04:30:00 +0000</pubDate>
+      <link>https://feed-dive.podigee.io/5-was-macht-ein-podcast-hoster-eigentlich</link>
+      <guid isPermaLink="false">364eaa82f3cffd1fd7fa04403b28708c</guid>
+      <content:encoded>
+        <![CDATA[Von Hosting bis Analytics und von Kundenservice bis Ad-Insertion
+<p>Podigee transportiert jeden Monat mehr als 1.000.000.000.000.000 Bytes (= 1 Petabyte) an Audio-Daten von den Podcast-Schaffenden in die Ohren der Podcast-Konsumierenden – aber das ist nur eine unserer vielen Dienstleistungen rund ums Podcast-Hosting. Wir liefern außerdem verlässliche Zugriffszahlen, betreuen Kunden bei Problemen und Fragen, entwickeln das Medium weiter, lösen Spezialanforderungen, bringen Werbetreibende mit Content-Machenden zusammen und noch vieles, vieles mehr.</p><p><strong>Links zur Episode:</strong></p><ul><li><a href="https://www.podigee.com/de/blog/podigee-veroeffentlicht-analytics-whitepaper/">Unified Podcast Analytics</a></li><li><a href="https://www.iab.com/guidelines/podcast-measurement-guidelines/">IAB-Richtlinien</a></li></ul><p><strong>PODCASTS IN SICHT! Das läuft in unseren Podcatchern:</strong></p><ul><li><a href="https://crooked.com/podcast-series/wind-of-change/">Wind of Change</a></li><li><a href="https://baywatch-berlin.podigee.io/">Baywatch Berlin</a></li><li><a href="https://soundcloud.com/user-910339503">Gemischtes Hack</a></li><li><a href="https://awfnr.de/">Alle Wege führen nach Ruhm</a></li><li><a href="https://softskills.audio/">Soft Skills Engineering</a></li><li><a href="https://www.deutschlandfunk.de/podcasts.2516.de.html">Deutschlandfunk-Podcasts</a></li><li><a href="https://www.deutschlandfunkkultur.de/interview.1007.de.html">Deutschlandfunk Kultur Interview</a></li></ul><p><strong>Klarmachen zum Entern!</strong></p><p><a href="https://feed-dive.podigee.io"><img src="https://images.podigee.com/1920x,sg8AvxU45SiF1LJf4FRzd_PV9V3ft7N5nN9cbBkyB1g8=/https://cdn.podigee.com/uploads/u15477/278ff5ed-0892-4ca1-a654-0358451bcf23.jpg" alt="Podigee Feed Dive" title="FEED DIVE-Logo" /></a></p><p><strong>Links zum Podcast:</strong></p><ul><li>Feed: <a href="https://feed-dive.podigee.io/feed/mp3">https://feed-dive.podigee.io/feed/mp3</a></li><li>Blog und Kommentare: <a href="https://feed-dive.podigee.io">https://feed-dive.podigee.io</a></li><li>Homepage: <a href="https://podigee.de?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive">https://podigee.de</a></li></ul><p><a href="https://podigee.de?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive"><img src="https://www.podigee.com/images/podigee-logo-text-horizontal.png" alt="podigee-logo" title="Podigee Logo" /></a></p>]]>
+      </content:encoded>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Von Hosting bis Analytics und von Kundenservice bis Ad-Insertion</itunes:subtitle>
+      <itunes:summary>Jürgen hat sich Entwickler Marcel und Customer-Support-Agent Ingrid auf die FEED-DIVE-Kommandobrücke geholt – und lädt dich ein, gemeinsam mit uns einen Blick hinter die Podigee-Kulissen zu werfen!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Podcasts,Podigee,Auswertung,Analytics,Kundenservice,Werbung</itunes:keywords>
+      <itunes:author>Podigee</itunes:author>
+      <enclosure url="https://cdn.podigee.com/media/podcast_26278_feed_dive_der_pdcst_pdcst_mit_tiefgang_episode_262340_was_macht_ein_pdcst_hoster_eigentlich.mp3?v=1596539619&amp;source=feed" type="audio/mpeg" length="49665777" />
+      <itunes:duration>3506</itunes:duration>
+    </item>
+    <item>
+      <title>Über Podcatcher, Kuration und Automatisierung – zwei Vielhörende unter sich</title>
+      <itunes:title>Über Podcatcher, Kuration und Automatisierung – zwei Vielhörende unter sich</itunes:title>
+      <description>Ein bisschen chaotisch, ein bisschen konstruktiv, aber stets voller Liebe zum Medium: Christopher und Jürgen unterhalten sich über die Anfänge ihrer "Sucht", über Hörgewohnheiten, Abspielgeschwindigkeiten und welche Dienste sie außer den Podcatchern sonst noch so zum Hören nutzen.</description>
+      <pubDate>Mon, 27 Jul 2020 09:00:00 +0000</pubDate>
+      <link>https://feed-dive.podigee.io/4-uber-podcatcher-kuration-und-automatisierung-zwei-vielhorende-unter-sich</link>
+      <guid isPermaLink="false">167e4b9b82c20ce82826d29376614c76</guid>
+      <content:encoded>
+        <![CDATA[Das kommt dabei heraus, wenn sich zwei Podcastnerds übers Podcast-Hören unterhalten.
+<p>Wie lassen sich Filter und verschiedene Zustände von Podcasts in Podcatchern einsetzen? Wie loggt ein Vielhörer sein Hörverhalten? Wie hörten wir früher? Wie Kuratieren und empfehlen wir Podcast-Episoden? Warum nicht zur Abwechslung einfach mal übers Podcast-Hören sprechen, statt übers Podcast-Machen? </p><p><strong>Links zur Episode:</strong></p><ul><li><a href="https://www.plauschangriff.de/">Game One Plauschangriff</a></li><li><a href="http://www.bitsundso.de/">Bits und so</a></li><li><a href="https://podcasts.apple.com/de/podcast/radio-brennt/id134964246">Radio brennt</a></li><li><a href="https://www.pocketcasts.com/">Pocket casts</a></li><li><a href="https://www.youtube.com/watch?v=7Oho2RbLk0k">Georg Holzmann und Auphonic</a></li><li><a href="https://apps.apple.com/de/app/overcast/id888422857">Overcast</a></li><li><a href="https://gpodder.net/">gPodder</a></li><li><a href="https://play.google.com/store/apps/details?id=com.laughable&hl=de">Laughable</a></li><li><a href="https://fyyd.de/">Fyyd</a></li><li><a href="https://www.amazon.de/knochenschall-kopfh%C3%B6rer/s?k=knochenschall+kopfh%C3%B6rer">Knochenschallkopfhörer</a></li><li><a href="https://www.podc.at/">Podcat</a></li><li><a href="https://huffduffer.com/">Huffduffer</a></li><li><a href="https://podmash.com/">Podmash</a></li><li><a href="https://www.icloud.com/shortcuts/20a5db22f33d4ac3a8a327f0119da879">Christophers Logging-Shortcuts für iPhone & Co.</a></li></ul><p><img src="https://podigee.com/uploads/podlog_by_christopher.png" alt="Christophers Podlog-Setup" title="enter image title here" /></p><p><strong>PODCASTS IN SICHT! Das läuft in unseren Podcatchern:</strong></p><ul><li><a href="https://mikrooekonomen.de/podcast/episode/mikrogespraech005-olaf-storbeck-von-der-ft-zu-wirecard/">Mikroökonomen</a></li><li><a href="https://cremedelameme.podigee.io/">Crème de la Meme</a></li><li><a href="https://detektor.fm/wirtschaft/reden-ist-geld-collien-ulmen-fernandes">Reden ist Geld</a></li><li><a href="https://viertausendhertz.de/frq66/">Frequenz</a></li></ul><p><strong>Klarmachen zum Entern!</strong></p><p><a href="https://feed-dive.podigee.io"><img src="https://images.podigee.com/1920x,sg8AvxU45SiF1LJf4FRzd_PV9V3ft7N5nN9cbBkyB1g8=/https://cdn.podigee.com/uploads/u15477/278ff5ed-0892-4ca1-a654-0358451bcf23.jpg" alt="Podigee Feed Dive" title="FEED DIVE-Logo" /></a></p><p><strong>Links zum Podcast:</strong></p><ul><li>Feed: <a href="https://feed-dive.podigee.io/feed/mp3">https://feed-dive.podigee.io/feed/mp3</a></li><li>Blog und Kommentare: <a href="https://feed-dive.podigee.io">https://feed-dive.podigee.io</a></li><li>Homepage: <a href="https://podigee.de?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive">https://podigee.de</a></li></ul><p><a href="https://podigee.de?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive"><img src="https://www.podigee.com/images/podigee-logo-text-horizontal.png" alt="podigee-logo" title="Podigee Logo" /></a></p>]]>
+      </content:encoded>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Das kommt dabei heraus, wenn sich zwei Podcastnerds übers Podcast-Hören unterhalten.</itunes:subtitle>
+      <itunes:summary>Ein bisschen chaotisch, ein bisschen konstruktiv, aber stets voller Liebe zum Medium: Christopher und Jürgen unterhalten sich über die Anfänge ihrer "Sucht", über Hörgewohnheiten, Abspielgeschwindigkeiten und welche Dienste sie außer den Podcatchern sonst noch so zum Hören nutzen.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Podcasts,Podigee,Hören,Auswertung,Podcatcher,Powerhören</itunes:keywords>
+      <itunes:author>Podigee</itunes:author>
+      <enclosure url="https://cdn.podigee.com/media/podcast_26278_feed_dive_der_pdcst_pdcst_mit_tiefgang_episode_257221_uber_podcatcher_kuration_und_automatisierung_zwei_vielhorende_unter_sich.mp3?v=1595576248&amp;source=feed" type="audio/mpeg" length="67740659" />
+      <itunes:duration>4797</itunes:duration>
+    </item>
+    <item>
+      <title>So führst du spannende Podcastgespräche – ein Interview mit dem Interviewtrainer Markus Tirok</title>
+      <itunes:title>So führst du spannende Podcastgespräche – ein Interview mit dem Interviewtrainer Markus Tirok</itunes:title>
+      <description>Die meisten von euch werden das kennen: Ihr holt euch eine Gästin oder einen Gast ins den Podcast und müsst nun ein Interview führen. Wie ihr euch darauf perfekt vorbereitet, was ihr unterwegs beachten solltet und warum es in Zeiten von Podcasts eigentlich viel besser ist, ein Gespräch zu führen als ein Interview – darüber spricht Jürgen mit Profi-Interviewer Markus Tirok!</description>
+      <pubDate>Mon, 13 Jul 2020 05:00:00 +0000</pubDate>
+      <link>https://feed-dive.podigee.io/3-so-fuhrst-du-spannende-podcastgesprache</link>
+      <guid isPermaLink="false">5ea0a279529977ee436b8bba9734af04</guid>
+      <content:encoded>
+        <![CDATA["Finger weg vom Superlativ" und andere Tipps, die auch dich in deinem Podcast zum Interviewhelden werden lassen!
+<p>Du kennst das vielleicht: Du hast dir eine hochkarätige Expertin oder einen prominenten Gast für deinen Podcast verpflichtet und ganz plötzlich steigt deine Nervosität: Was, wenn er deine Fragen nicht richtig beantwortet und sich alle Details aus der Nase ziehen lässt? Was, wenn sie auf eine einfache Ja-Nein-Frage schier endlos referiert? Was, wenn deine Fragen doof und unkreativ rüberkommen? Und wie fragt man überhaupt richtig? Offen? Geschlossen? Mit viel Subjektivität oder gar ganz ohne?</p><p><strong>Wir sagen: Keine Panik!</strong></p><p>Am besten atmest du erst einmal kurz durch und hörst dir dann diese FEED DIVE-Episode an: Darin versucht sich unser Head of Content Jürgen an exakt dieser Herausforderung – und mit Profi-Interviewer Markus Tirok hat er dazu den perfekten Gast. Nach diesen vollgepackten 56 Minuten solltest auch du in der Lage sein, einen professionellen Dialog vorzubereiten, deine Gesprächspartnerinnen und -partner zuverlässig zu führen sowie insgesamt entspannter an deine nächsten Podcastinterviews ranzugehen. Wetten?</p><p><strong>Links zur Episode:</strong></p><ul><li>"Interview-Held" Markus Tirok: <a href="https://www.tirok-training.de/">Homepage</a></li><li>"Interview-Held" Markus Tirok: <a href="https://www.instagram.com/interviewhelden/?hl=de">Instagram</a></li><li>"Interview-Held" Markus Tirok: <a href="https://www.youtube.com/channel/UCwSdqBAvNj-QNdkhwLJO76Q">Youtube</a></li><li>"Interview-Held" Markus Tirok: <a href="https://www.tirok-training.de/podcast">Podcast</a></li><li><a href="https://studio.link">Studio-Link</a></li><li><a href="https://www.youtube.com/watch?v=cdzzf4Plj_I">Der Torfall von Madrid</a></li><li><a href="https://www.youtube.com/watch?v=kMits0yN9o0">Moritz Klenk: "Sprechendes Denken" </a></li></ul><p><strong>PODCASTS IN SICHT! Das läuft in unseren Podcatchern:</strong></p><ul><li><a href="https://www.radioeins.de/archiv/podcast/hoerbar_rust.html">Hörbar Rust</a></li><li><a href="https://sandraholze.com/podcast/">Ungeschminkt</a></li><li><a href="https://www.handelsblatt.com/audio/podcast-morning-briefing/">Handelsblatt Morning Briefing</a></li><li><a href="https://www.stitcher.com/podcast/stitcher/the-dream">The Dream</a></li></ul><p><strong>Klarmachen zum Entern!</strong></p><p><a href="https://feed-dive.podigee.io"><img src="https://images.podigee.com/1920x,sg8AvxU45SiF1LJf4FRzd_PV9V3ft7N5nN9cbBkyB1g8=/https://cdn.podigee.com/uploads/u15477/278ff5ed-0892-4ca1-a654-0358451bcf23.jpg" alt="Podigee Feed Dive" title="FEED DIVE-Logo" /></a></p><p><strong>Links zum Podcast:</strong></p><ul><li>Feed: <a href="https://feed-dive.podigee.io/feed/mp3">https://feed-dive.podigee.io/feed/mp3</a></li><li>Blog und Kommentare: <a href="https://feed-dive.podigee.io">https://feed-dive.podigee.io</a></li><li>Homepage: <a href="https://podigee.de?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive">https://podigee.de</a></li></ul><p><a href="https://podigee.de?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive"><img src="https://www.podigee.com/images/podigee-logo-text-horizontal.png" alt="podigee-logo" title="Podigee Logo" /></a></p>]]>
+      </content:encoded>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>"Finger weg vom Superlativ" und andere Tipps, die auch dich in deinem Podcast zum Interviewhelden werden lassen!</itunes:subtitle>
+      <itunes:summary>Die meisten von euch werden das kennen: Ihr holt euch eine Gästin oder einen Gast ins den Podcast und müsst nun ein Interview führen. Wie ihr euch darauf perfekt vorbereitet, was ihr unterwegs beachten solltet und warum es in Zeiten von Podcasts eigentlich viel besser ist, ein Gespräch zu führen als ein Interview – darüber spricht Jürgen mit Profi-Interviewer Markus Tirok!</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Podcasts,Podigee,Hören,Veränderung,Corona,Covid-19,Daten,Analytics,Auswertung</itunes:keywords>
+      <itunes:author>Podigee</itunes:author>
+      <enclosure url="https://cdn.podigee.com/media/podcast_26278_feed_dive_der_pdcst_pdcst_mit_tiefgang_episode_250881_so_fuhrst_du_spannende_pdcstgesprache_ein_interview_mit_dem_interviewtrainer_ma.mp3?v=1594370463&amp;source=feed" type="audio/mpeg" length="48199789" />
+      <itunes:duration>3401</itunes:duration>
+    </item>
+    <item>
+      <title>Das Podigee-Corona-Update</title>
+      <itunes:title>Das Podigee-Corona-Update</itunes:title>
+      <description>Corona verändert alles – sogar unser Podcast-Hörverhalten. Aber haben sich vielleicht auch die Produktionsgewohnheiten verändert? Welche Kategorien sind in Zeiten der Krise besonders gefragt? Und gehen wir entspannter mit "schlechterer" Produktionsqualität um? Fragen über Fragen, die Ben und Jürgen im Gespräch zu klären versuchen.</description>
+      <pubDate>Mon, 29 Jun 2020 14:45:17 +0000</pubDate>
+      <link>https://feed-dive.podigee.io/2-das-podigee-corona-update</link>
+      <guid isPermaLink="false">528d5e4f197bcdcbb41572e65efd796f</guid>
+      <content:encoded>
+        <![CDATA[Wie hat sich Podcasting in Zeiten von Corona verändert? Ben und Jürgen wühlen sich durch die Daten.
+<p>Wir habe es im April schon einmal getan und wir werden es höchstwahrscheinlich wieder tun: Wir sehen uns quer über alle Podigee-Podcasts hinweg die Abrufzahlen an, um herauszufinden, welche Auswirkungen die Corona-Krise an dieser Stelle auf uns hat. Alle Diagramme zum Mitlesen findet ihr hier in den Shownotes – aber auch in den jeweiligen Kapitelmarken. </p><p>Diagramme:</p><ul><li><a href="https://podigee.com/uploads/01_weekly_downloads_feed_vs_webplayer.png"><img src="https://podigee.com/uploads/01_weekly_downloads_feed_vs_webplayer.png" alt="Downloads: Feed vs. Webplayer" /></a></li><li><a href="https://podigee.com/uploads/02_weekly_category_downloads.png"><img src="https://podigee.com/uploads/02_weekly_category_downloads.png" alt="Downloads nach Kategorien" /></a></li><li><a href="https://podigee.com/uploads/03_weekly_new_podcasts.png"><img src="https://podigee.com/uploads/03_weekly_new_podcasts.png" alt="Neue Podcasts" /></a></li><li><a href="https://podigee.com/uploads/04_corona-themed_podcasts_and_episodes.png"><img src="https://podigee.com/uploads/04_corona-themed_podcasts_and_episodes.png" alt="Podcasts und Episoden mit Corona-Bezug" /></a></li></ul><p><strong>Links zur Episode:</strong></p><ul><li><a href="https://www.podigee.com/de/blog/wie-wirken-sich-corona-und-covid-19-auf-das-podcasting-aus/">Unser Blogbeitrag zu den Corona-Zahlen aus dem April</a></li><li><a href="https://analytics.podtrac.com/blog/2020/6/1/weekly-podcast-data-amid-the-coronavirus-crisis-nbsp-through-may-31-2020-final-update">Zahlen von Podtrac</a></li><li><a href="https://www.niemanlab.org/2020/04/coronavirus-seems-to-have-made-podcasts-more-of-an-afternoon-thing-than-a-morning-thing/">Zahlen von Nieman Lab/Ad Results Media</a></li><li><a href="https://podnews.net/press-release/arn-ihpna-jun20-growth">Zahlen von iHeartPodcast Network Australia</a></li><li><a href="https://www.edisonresearch.com/share-of-time-spent-listening-to-audio-at-home-in-the-u-s-increases-44-during-covid-19-disruption/?utm_source=podnews.net&utm_medium=web&utm_campaign=podnews.net:2020-06-17">Zahlen von Edison Research</a></li><li><a href="https://www.vulture.com/2020/03/coronavirus-changing-podcast-industry.html">Artikel von Vulture.com</a>
+-<a href="https://www.podigee.com/de/blog/mit-den-richtigen-tools-podcasts-uber-das-internet-aufnehmen-und-dabei-fehler-vermeiden-teil-1/">Blogbeitrag Remote-Aufnahmen</a></li></ul><p><strong>PODCASTS IN SICHT! Das läuft in unseren Podcatchern:</strong></p><ul><li><a href="https://rasenfunk.de/schlusskonferenz">Rasenfunk Schlusskonferenz</a></li><li><a href="https://entbehrlich.es">Entbehrlich.es</a></li><li><a href="https://www.iheart.com/podcast/1119-fake-doctors-real-friends-60367049/">Fake Doctors, Real Friends</a></li><li><a href="https://www.vice.com/en_us/article/59vpnx/introducing-cyber-a-hacking-podcast-by-motherboard">VICE Motherboard: Cyber</a></li><li><a href="https://darknetdiaries.com/">Darknet Diaries</a></li></ul><p><strong>Klarmachen zum Entern!</strong></p><p><a href="https://feed-dive.podigee.io"><img src="https://images.podigee.com/1920x,sg8AvxU45SiF1LJf4FRzd_PV9V3ft7N5nN9cbBkyB1g8=/https://cdn.podigee.com/uploads/u15477/278ff5ed-0892-4ca1-a654-0358451bcf23.jpg" alt="Podigee Feed Dive" title="FEED DIVE-Logo" /></a></p><p><strong>Links zum Podcast:</strong></p><ul><li>Feed: <a href="https://feed-dive.podigee.io/feed/mp3">https://feed-dive.podigee.io/feed/mp3</a></li><li>Blog und Kommentare: <a href="https://feed-dive.podigee.io">https://feed-dive.podigee.io</a></li><li>Homepage: <a href="https://podigee.de?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive">https://podigee.de</a></li></ul><p><a href="https://podigee.de?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive"><img src="https://www.podigee.com/images/podigee-logo-text-horizontal.png" alt="podigee-logo" title="Podigee Logo" /></a></p>]]>
+      </content:encoded>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Wie hat sich Podcasting in Zeiten von Corona verändert? Ben und Jürgen wühlen sich durch die Daten.</itunes:subtitle>
+      <itunes:summary>Corona verändert alles – sogar unser Podcast-Hörverhalten. Aber haben sich vielleicht auch die Produktionsgewohnheiten verändert? Welche Kategorien sind in Zeiten der Krise besonders gefragt? Und gehen wir entspannter mit "schlechterer" Produktionsqualität um? Fragen über Fragen, die Ben und Jürgen im Gespräch zu klären versuchen.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Podcasts,Podigee,Hören,Veränderung,Corona,Covid-19,Daten,Analytics,Auswertung</itunes:keywords>
+      <itunes:author>Podigee</itunes:author>
+      <enclosure url="https://cdn.podigee.com/media/podcast_26278_feed_dive_der_pdcst_pdcst_mit_tiefgang_episode_244671_das_podigee_corona_update.mp3?v=1593441482&amp;source=feed" type="audio/mpeg" length="38851805" />
+      <itunes:duration>2695</itunes:duration>
+    </item>
+    <item>
+      <title>Podigee: Wie alles begann ...</title>
+      <itunes:title>Podigee: Wie alles begann ...</itunes:title>
+      <description>Wie feiert man "7 Jahre Podigee" am besten? Na, stilecht mit einem neuen Podcast natürlich! In dieser Folge reisen Jürgen und die beiden Gründer von Podigee in das Jahr 2013, als Podcasting hierzulande noch in den Kinderschuhen steckte –  und ein neues Unternehmen an die Startlinie ging, Podcast-Deutschland auf den Kopf zu stellen.</description>
+      <pubDate>Mon, 15 Jun 2020 10:15:57 +0000</pubDate>
+      <link>https://feed-dive.podigee.io/1-podigee-wie-alles-begann</link>
+      <guid isPermaLink="false">648835046a6aa776060061ec6396a44b</guid>
+      <content:encoded>
+        <![CDATA[Willkommen bei FEED DIVE – Podigees Podcast-Podcast mit Tiefgang
+<p>Wie feiert man "7 Jahre Podigee" am besten? Na, stilecht mit einem neuen Podcast natürlich! In dieser Folge reist Gastgeber Jürgen mit den beiden Gründern von Podigee Ben und Mati in das Jahr 2013, als Podcasting hierzulande noch ziemlich in den Kinderschuhen steckte –  und ein neues Unternehmen sich in Stellung brachte, Podcast-Deutschland (zumindest ein kleines bisschen) auf den Kopf zu stellen.</p><p><strong>Klarmachen zum Entern!</strong></p><p><a href="https://feed-dive.podigee.io"><img src="https://images.podigee.com/1920x,sg8AvxU45SiF1LJf4FRzd_PV9V3ft7N5nN9cbBkyB1g8=/https://cdn.podigee.com/uploads/u15477/278ff5ed-0892-4ca1-a654-0358451bcf23.jpg" alt="Podigee Feed Dive" title="FEED DIVE-Logo" /></a></p><p><strong>Links zur Episode:</strong></p><ul><li><a href="https://fyyd.de/user/hoersuppe/curation/nullnummern?page=0">Fyyd Nullnummernkuration</a></li><li><a href="https://omr.com/de/">Online-Marketing-Rockstars</a></li><li><a href="https://rasenfunk.de">Rasenfunk</a></li><li><a href="https://viertausendhertz.de">Viertausendhertz</a></li><li><a href="https://www1.wdr.de/daserste/lindenstrasse/neuigkeiten/podcast-meine-freundin-hasst-die-lindenstrasse-100.html">Wimaf – "Meine Frau hasst die Lindenstraße"</a></li><li><a href="https://zebra-audio.net/">Zebra Audio</a></li></ul><hr /><p><strong>Links zum Podcast:</strong></p><ul><li>Feed: <a href="https://feed-dive.podigee.io/feed/mp3">https://feed-dive.podigee.io/feed/mp3</a></li><li>Blog: <a href="https://feed-dive.podigee.io">https://feed-dive.podigee.io</a></li><li>Homepage: <a href="https://podigee.de?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive">https://podigee.de</a></li></ul><p><a href="https://podigee.de?utm_source=podcatcher&utm_medium=podcast&utm_campaign=feed-dive"><img src="https://www.podigee.com/images/podigee-logo-text-horizontal.png" alt="podigee-logo" title="Podigee Logo" /></a></p>]]>
+      </content:encoded>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:subtitle>Willkommen bei FEED DIVE – Podigees Podcast-Podcast mit Tiefgang</itunes:subtitle>
+      <itunes:summary>Wie feiert man "7 Jahre Podigee" am besten? Na, stilecht mit einem neuen Podcast natürlich! In dieser Folge reisen Jürgen und die beiden Gründer von Podigee in das Jahr 2013, als Podcasting hierzulande noch in den Kinderschuhen steckte –  und ein neues Unternehmen an die Startlinie ging, Podcast-Deutschland auf den Kopf zu stellen.</itunes:summary>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>Podcasts,Podigee,Start-up,Gründung,Jubiläum,Geburtstag,Geschichte</itunes:keywords>
+      <itunes:author>Podigee</itunes:author>
+      <enclosure url="https://cdn.podigee.com/media/podcast_26278_feed_dive_podigees_pdcst_pdcst_mit_tiefgang_episode_235256_podigee_wie_alles_begann.mp3?v=1592205466&amp;source=feed" type="audio/mpeg" length="72927024" />
+      <itunes:duration>5168</itunes:duration>
+    </item>
+  </channel>
+</rss>
