@@ -7,3 +7,10 @@ services:
       - .:/myapp
     ports:
       - "4000:4000"
+  frontend:
+    build: ./frontend/
+    volumes:
+      - ./frontend/.:/app
+    ports:
+      - "3005:3000"
+    command: npm start
