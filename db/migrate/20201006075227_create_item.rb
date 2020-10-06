@@ -1,6 +1,7 @@
 class CreateItem < ActiveRecord::Migration[6.0]
   def change
     create_table :items do |t|
+      t.references :feed, null: false
       t.string :title, null: false
       t.string :description
       t.timestamp :published_date

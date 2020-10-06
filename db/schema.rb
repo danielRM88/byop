@@ -23,6 +23,7 @@ ActiveRecord::Schema.define(version: 2020_10_06_075227) do
   end
 
   create_table "items", force: :cascade do |t|
+    t.integer "feed_id", null: false
     t.string "title", null: false
     t.string "description"
     t.datetime "published_date"
@@ -33,6 +34,7 @@ ActiveRecord::Schema.define(version: 2020_10_06_075227) do
     t.string "link_to_audio"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.index ["feed_id"], name: "index_items_on_feed_id"
   end
 
 end
